@@ -6,11 +6,14 @@
 *.svg
 *.bmp
 *.pt
-data/
 *.csv
 *.xlsx
 *.keras
 *.h5
-catboost_info/
 *.txt
 *.txt~
+
+/data
+/ML3.12
+/catboost_info
+/train_data
